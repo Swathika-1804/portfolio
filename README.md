@@ -1,4 +1,4 @@
-URL: https://swathikaportfolio-2epko1lis-swathikams-projects.vercel.app/
+URL: https://swathikaportfolio.vercel.app/
 
 # React + Vite
 
