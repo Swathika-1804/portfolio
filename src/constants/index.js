@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     role: "UI/UX Designer (Academic Project)",
     company: "Kongu Engineering College",
     description: `Designed the PLANTIXX Smart Farming Assistant App using Figma. Developed intuitive workflows and interactive prototypes focused on simplifying farming operations. Emphasized visual clarity, accessibility, and consistency across screens to improve user experience for farmers.`,
-    technologies: ["Figma", "Prototyping", "Wireframing", "UI/UX Design"],
+    technologies: ["Figma", "Prototyping", "Wireframing", "UI/UX Design"], 
     img:["https://www.figma.com/design/C3Bx74brViLHfHrtOEKc71/Plantixx-uid?node-id=0-1&p=f"]
   },
     {
@@ -26,6 +26,7 @@ export const EXPERIENCES = [
     img:"#"
   }
 ];
+
 
 export const PROJECTS = [
   {
